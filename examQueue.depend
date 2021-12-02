@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1635819230 source:c:\users\samsung\desktop\code\examqueue\main.cpp
+	<iostream>
+	"linkedQueueType.h"
+	"queueType.h"
+
+1635371539 c:\users\samsung\desktop\code\examqueue\queuetype.h
+	<cassert>
+	<iostream>
+	"queueADT.h"
+	<stack>
+
+1635371481 c:\users\samsung\desktop\code\examqueue\queueadt.h
+
+1635529607 c:\users\samsung\desktop\code\examqueue\linkedqueuetype.h
+	"queueType.h"
+	<iostream>
+	<cassert>
+
